@@ -1,0 +1,2 @@
+# bocija
+pomoc
